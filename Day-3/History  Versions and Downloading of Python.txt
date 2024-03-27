@@ -1,0 +1,39 @@
+		=====================================================================
+					History of Python
+		=====================================================================
+=>The Python Programming Language Concevied (Foundation Stone Laid down) in the Year 1980
+=>The Python Programming Language Implemented(Bring into an action) in the Year 1989.
+=>The Python Programming Language Offcially Released in the Year 1991 Feb.
+=>The Python Programming Language Developed by "Guido Van Rossum" (Father OR Author of Python).
+=>The Python Programming Language Developed at CWI (Centrum Wiskunde Informatica) Reasearch Institute in the Country 
+    Nether Landas.
+=>The Python Programming Language Maintained and Managed by a Non-Commercial Organization Called PSF (Python 
+   Software Foundation).
+=>The official website of PSF is www.python.org.
+		=====================================================================
+					Version of Python--Used in MNCs
+		=====================================================================
+=>Python Programming Language Contains 3 Types of Versions. They are
+
+	1. Python 1.x --->Here 1 Is called Major Version and X Represents 0 1 2 3,4,....etc and these called Minor Version
+		Python 1.x was already Outdated
+		Python 2.x does not Support Backward Compatability with Python 1.x
+	2. Python 2.x---->Here 2 Is called Major Version and X Represents 0 1 2 3,4,5,6,7....etc and these called Minor Version
+			
+		Python 2.x was already Outdated
+		Python 3.x does not Support Backward Compatability with Python 2.x.
+	3. Python 3.x----Here 3 Is called Major Version and X Represents 0 1 2 3,4,5,6,7,8,9,10,11,12,13 and these called Minor 
+	                                                                                                                                                Version
+				 Here Python 3.x is called Current Version
+					 Python 3.8,3.9,3.10---Industry  Current Version  Used for Developing Real Time Applications (Secured)
+					 Python 3.11,3.12----Are the Latest Versions (BugFix Stage)
+					 Python 3.13-------Pre-Release / Future Version
+		=====================================================================
+					DownLoading and Installation Process of Python
+		=====================================================================
+=>Goto  www.python.org
+=>Choose DownLoads----> Python 3.12.2 (click)
+=>Ensure that Python 3.12.2 downloaded
+=>Double Click  on Python 3.12.2---ensure u Must set the Path--->Choose Install Now
+===================================================================================================
+

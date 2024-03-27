@@ -1,0 +1,24 @@
+			================================================================
+					7. Freeware and Open Source
+			================================================================
+---------------------
+Freeware:
+---------------------
+=>If any Programming Language is Freely DownLoadable from Official Source(www.python.org  from PSF) then that language is called Freeware.
+Examples:   PYTHON, Java
+---------------------
+Open Source:
+---------------------
+=>The Standard Name of Python Software is "CPYTHON".
+=>Open Source is Nothing but making the Software to be available to all People.
+=>Once the Software is Open Source then Some Software Companies  came forward and Customized the Python Software for their In-House Tools Like Performance Evaluation, Quality of Testing, Releasing Process...etc.
+=>The Customized Softwares of Python are called "Python Distributions".
+=>Some of the Python Distributions are
+	
+			1. JPython  OR Jython----->Used for Running Java Based Applications.
+			2. IronPython OR Ipython--->Used for Ruuning C#.net Based Applications
+			3. Micro Python ---------------->Used for development of Micro Controller Applications.
+			4. Anaconda Python---------->Used for Developing Big Data OR Hadoop Based Applications
+			5. StackLess Python--------->used for developing  Concurrency Applications
+			...............etc
+=====================================================x==================================================

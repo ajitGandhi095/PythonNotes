@@ -1,0 +1,31 @@
+				==========================================================
+						2. Platform Indepedent Langauge--Most Imp
+				==========================================================
+=>A platform is Nothing but Type of OS Being Used to Run our Application / Project / Program.
+---------------------------------------------------------
+Definition of OS(Operating System):
+---------------------------------------------------------
+=>OS is a Software and It acts as Resource Allocation Manager and Resource De-Allocation Manager
+				(OR)
+=>OS is one of Interface Between Program and Computer Hardware( Memory , Processor , I/O Devices..etc)
+------------------------------------------------------------
+=>In IT, we have Two Types of Programming Languages. They are
+
+			1. Platform Dependent Languages
+			2. Platform Inependent Languages
+--------------------------------------------------------------------------
+1. Platform Dependent Lang
+--------------------------------------------------------------------------
+=>In Platform Dependent Lang, Data Types differes from One OS to Another OS and and These Lang are PLATFORM DEPENDENT.
+Example:   C,C++....etc
+
+--------------------------------------------------------------------------
+2. Platform Independent Lang
+--------------------------------------------------------------------------
+=>In Platform Independent Lang, Data Types memory space remains Same on All Types OSes.
+=>In Effective Platform Independent Lang, all types of Values will store in the form of OBJECTs and they can store Un-Limited amount of data
+=>Hence java Object contains Size Restricted where Python Objects contains Un-limited Size and unlimited values can store.
+
+NOTE: IN PYTHON ALL VALUES ARE STOREd IN THE OF OBJECTS.
+Examples:   Java, Python.
+--------------------------------------------------------------------------

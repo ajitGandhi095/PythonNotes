@@ -1,0 +1,29 @@
+			==============================================================
+							1. Simple
+			==============================================================
+=>Python Programming is of one the SIMPLE Programming Language bcoz of THREE Important Technical Factors.
+**********************************************************************************************************************************************
+Factor-1:	      Python Programming Provides "Rich Set of MODULES"
+--------------      So that Python Programmer can Re-Use the Pre-Defined Code which is Present in MODULES without writing Our 
+                      Own Source Code
+Examples: calendar,random,math,cmath,os,oracledb,mysql.connector...etc
+----------------
+Definition of Module
+-------------------------------
+A Module is a Collection of Functions, Data Members and Class names
+**********************************************************************************************************************************************
+Factor-2:    Python Programming Provides In-Built Facility Called Garbage Collector.
+-------------    So Garbage Collector Collects Un-Used Memory Space and Improves the perfomance of Python Based Applications.
+----------------------------------------------
+Definition of Garbage Collector
+----------------------------------------------
+=>A  Garbage Collector is one of Python Background Program running Behind of Regular Python Program and whose Role is that To Collect Un-used memory Space and Improves the Performance of Python Based Applications.
+=>Hence  Garbage Collector takes care about automatic Memory Management.
+**********************************************************************************************************************************************
+Factor-3:			
+-----------------
+=>The Python Programming Provides User-Friendly Syntaxes and Makes to Programmer to write Error-Free Programs in Limited 
+    span of Time.
+**********************************************************************************************************************************************
+
+

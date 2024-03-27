@@ -1,0 +1,50 @@
+				========================================================
+						3. Dynamically Typed
+				========================================================
+=>In IT , we have Two Types of Programming Languages. They are
+
+				1. Static Typed Programming Language.
+				2. Dynamically Typed Programming Language.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Static Typed Programming Language.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+=>In  Static Typed Programming Language, It mandatory for the programmer To Specify Variable Declaration (Data Type+ Identifiers) Otherwise we get Compile Time Errors
+--------------
+Example Task:  Compute Sum of Two Numbers in C, C++, Java
+--------------------
+			int a=10;  // Variable Declaration
+			int b=20; // Variable Declaration
+			int c=a+b //Variable Declaration
+				OR
+			int a=10,b=20;  // Variable Declaration
+			int c=a+b       //Variable Declaration
+=>The Problem of Static Typed Programming Languages is that The Programmer May not be Knowing The Data Type of Value 
+   accurately.
+=>In Static Typed Programming Languages , It stored Perticular Type Value Only But never allows to store Other Types of Values.
+-------------------------------
+Examples Languages: C, C++, Java, C#.net........etc
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+2. Dynamically Typed Programming Language.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+=>In Dynamically Typed Programming Language, Programmers Need not write Variable Declration. Internally Programming Language Execution Environment will data type of value, which is entered By Programmer.
+=>The Advantage of Dynamically Typed Programming Languages, is that
+					i) Programmer Need not write Data Type
+					ii) Depends type of Value, Execution Environment will assign the Data type
+Examples:
+-------------------
+>>> a=10
+>>> b=20
+>>> c=a+b
+>>> print(a,type(a))---------------10 <class 'int'>
+>>> print(b,type(b))---------------20 <class 'int'>
+>>> print(c,type(c))---------------30 <class 'int'>
+--------------------------
+>>> a=100
+>>> b=1.2
+>>> c=a+b
+>>> print(a,type(a))--------------100 <class 'int'>
+>>> print(b,type(b))--------------1.2 <class 'float'>
+>>> print(c,type(c))--------------101.2 <class 'float'>
+--------------------------------
+Examples Languages: PYTHON
+----------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,18 @@
+			============================================================
+						6. Robust (Strong)
+			============================================================
+=>Python Programming Provides a Programming Feature called "Exception Handling".
+=>Due to exception handling facility, Python Based Application becomes Robust(Strong).
+
+----------------------------------------------
+Definiton of Exception 
+----------------------------------------------
+=>Every Runtime Error of the Program is Called Exception
+			(Invalid Input----->Runtime Error---->Exception)
+=>By default All Exceptions (Runtime Errors) gives Technical Error Message. Which are understandable by Programmers But not by End-Users and This is Not a Recommended Process in software industry.
+=>software industry recommeds convert echnical Error Message into User Friendly Error Message by using Exception Handling.
+----------------------------------------------
+Definiton of Exception Handling
+----------------------------------------------
+=>The Process of Converting Technical Error Message into User-Friendly Error Message is Called Exception Handling
+=============================================x=======================================================

@@ -1,0 +1,38 @@
+		=====================================================================
+				Real Time Applications Developed by Using PYTHON Programming
+		=====================================================================			
+=>By using python Programming Lang and Some Combined technolgies , we develop the following Real Time Applications.
+
+		1. Development of Web Applications (Web Sites )
+					a) Java Programming Lang<----------Tech:  Servlets, JSP, Hibernate,Spring, Spring Boot, Spring with									Micro Services...etc
+						(Sun Micro System INC USA--->Oracle Corp)
+					b) C#.net Programming Lang<------Tech: ASP.net, ASP with Micro Services.
+						(Micro Soft)
+					c) PYTHON Programming Language<------Tech: Django, Flask,Bottle,Pyramid
+								Python----Says--"Less Lines of Code and Gives more Meaning"
+											Bcoz of Rich set of MODULES are Present in PYTHON
+								Learning Python=Learning About Modules
+
+		2. Development of Gaming  Applications.
+		3. Development of Aritificial Intelligence(AI) Applications
+							a) Machine Learning (ML)
+							b) Deep Learning (DL)
+
+		4. Development of Image Processing Applications.
+		5. Development of Audio and Video Based Applications
+		6. Development of Web Scrapping / Web Harvesting
+		7. Development of Bussiness Applications (Apps)
+		8. Development of Scientiifc Applications 
+		9. Development of Software Development (Project Development)
+		10. Development of OS Installers
+		11. Development of Languages (Spark, Scala)
+		12. Development of DeskTop GUI Applications
+		13. Development of Data Analysis and Data Analytics
+		14. Development of Automation of Testing
+		15. Development of Complex Math Operations
+		16. Devevelopment of Console Based Applications (Non-GUI)
+		17. Development of Animation Applications
+		18. Development of CAD and CAM Based Applications 
+		19. Development of Computer Vision
+		20. Python Used in Education System
+===================================================================================================
